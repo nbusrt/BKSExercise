@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightExcercise", "FlightExcercise\FlightExcercise.csproj", "{9023EEE3-3D83-4DD2-864F-C9B8D3DA1B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightExcerciseTests", "FlightExcerciseTests\FlightExcerciseTests.csproj", "{D8B9D0B4-1171-4ACF-AF57-26328A365815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9023EEE3-3D83-4DD2-864F-C9B8D3DA1B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9023EEE3-3D83-4DD2-864F-C9B8D3DA1B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9023EEE3-3D83-4DD2-864F-C9B8D3DA1B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9023EEE3-3D83-4DD2-864F-C9B8D3DA1B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B9D0B4-1171-4ACF-AF57-26328A365815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B9D0B4-1171-4ACF-AF57-26328A365815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B9D0B4-1171-4ACF-AF57-26328A365815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B9D0B4-1171-4ACF-AF57-26328A365815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B85AEAC5-5350-4F15-A1C8-8BD35E81394C}
+	EndGlobalSection
+EndGlobal
